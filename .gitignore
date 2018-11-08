@@ -1,4 +1,4 @@
 ./playground/2/soccer/database.sqlite
 ./playground/2/soccer/submission/database.sqlite
-./playground/4/data_wrangling/ebert_reviews/* 
-./playground/4/data_wrangling/rt-html/* 
+ebert_reviews/
+rt-html/
